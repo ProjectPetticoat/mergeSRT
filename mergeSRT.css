@@ -1,0 +1,29 @@
+body, div {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #777777;
+    text-decoration: none;
+    background-color: #FFFFFF;
+    margin: 20px 20px 0px 20px;
+    }
+
+#CenterBox {
+    position: absolute;
+    text-align: center;
+    left: 50%; 
+    top: 10%; 
+    width: 500px; 
+    margin: -50px 0 0 -250px; 
+    border: 1px none; 
+    visibility: visible; 
+    z-index: 1; 
+}
+
+/* buttons */
+#submit {
+    color: #009900;
+}
+
+#clear {
+    color: #AAAAAA;
+}
